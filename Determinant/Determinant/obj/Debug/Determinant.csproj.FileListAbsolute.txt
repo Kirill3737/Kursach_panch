@@ -1,0 +1,21 @@
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\bin\Debug\Determinant.exe.config
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\bin\Debug\Determinant.exe
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\bin\Debug\Determinant.pdb
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.csproj.AssemblyReference.cache
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.csproj.SuggestedBindingRedirects.cache
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.Form1.resources
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.Properties.Resources.resources
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.csproj.GenerateResource.cache
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.csproj.CoreCompileInputs.cache
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.exe
+C:\Users\peppa\Desktop\kurs\Determinant\Determinant\obj\Debug\Determinant.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Determinant\Determinant\bin\Debug\Determinant.exe.config
+C:\Users\maksi\OneDrive\Рабочий стол\Determinant\Determinant\bin\Debug\Determinant.exe
+C:\Users\maksi\OneDrive\Рабочий стол\Determinant\Determinant\bin\Debug\Determinant.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Determinant\Determinant\obj\Debug\Determinant.csproj.AssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Determinant\Determinant\obj\Debug\Determinant.Form1.resources
+C:\Users\maksi\OneDrive\Рабочий стол\Determinant\Determinant\obj\Debug\Determinant.Properties.Resources.resources
+C:\Users\maksi\OneDrive\Рабочий стол\Determinant\Determinant\obj\Debug\Determinant.csproj.GenerateResource.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Determinant\Determinant\obj\Debug\Determinant.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Determinant\Determinant\obj\Debug\Determinant.exe
+C:\Users\maksi\OneDrive\Рабочий стол\Determinant\Determinant\obj\Debug\Determinant.pdb
